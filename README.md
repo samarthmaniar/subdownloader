@@ -1,7 +1,7 @@
 # subdownloader
-Painless subtitle downloader
+A painless subtitle downloader
 
-Downloading subtitle for one or more files is just a command away. It can get any better then this.
+Downloading subtitle for one or more files is just a command away. It cannot get any better than this.
 
 ## Installation
 ```
